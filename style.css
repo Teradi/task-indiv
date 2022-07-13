@@ -26,6 +26,8 @@ a {
   text-decoration: none;
 }
 
+/** global classes styling **/
+
 .container {
   max-width: 1000px;
   width: 100%;
